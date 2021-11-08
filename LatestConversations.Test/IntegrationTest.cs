@@ -11,8 +11,6 @@ namespace LatestConversations.Test
 {
     public class IntegrationTests
     {
-        Mock<IUnityService> mockCreditDecisionService;
-
         [SetUp]
         public void Setup()
         {
